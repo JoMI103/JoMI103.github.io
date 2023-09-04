@@ -4,8 +4,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "" }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About" }}</h2>
+        {% if site.data.sitetext[site.locale].about.icon %}<i class="{{ site.data.sitetext[site.locale].about.icon}}"></i>{% endif %} 
       </div>
     </div>
     <div class="row">
@@ -20,8 +20,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About" }}</h2>
+        {% if site.data.sitetext[site.locale].about.icon %}<i class="{{ site.data.sitetext[site.locale].about.icon}}"></i>{% endif %}
       </div>
     </div>
     <div class="row">
@@ -33,3 +33,15 @@
 </section>
 {% endif %}
 <!-- End About -->
+
+
+
+    {% for link in site.data.sitetext[site.locale].footer.social %}
+    <li class="list-inline-item">
+      {% if link.url %}
+      <a href="{{ link.url }}">
+        {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+      </a>
+      {% endif %}
+    </li>
+    {% endfor %}
