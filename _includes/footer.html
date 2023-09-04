@@ -1,17 +1,14 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: rgb(215, 219, 227)">
+<footer class="footer" id="footer" style="background-color: white">
   <div class="container">
     {% if site.locale and site.locale != "" and site.locale != nil %}
-    <div class="align-items-center">
-      
-      <div class="align-items-center">
+    <div class="row align-items-center">
+      <div class="col-md-4">
         <span class="copyright"
           >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
         >
       </div>
-    
-     
-      <!-- Social Media 
+      <!-- Social Media -->
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
@@ -25,8 +22,7 @@
           {% endfor %}
         </ul>
       </div>
-      -->
-      <!-- Legal 
+      <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
@@ -37,18 +33,15 @@
           </li>
         </ul>
       </div>
-      -->
-    
-    </div> 
-    
+    </div>
     {% else %}
-    <div class="align-items-center">
-      <div class="align-items-center">
+    <div class="row align-items-center">
+      <div class="col-md-4">
         <span class="copyright"
           >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
         >
       </div>
-      <!-- Social Media
+      <!-- Social Media -->
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext.footer.social %}
@@ -62,8 +55,7 @@
           {% endfor %}
         </ul>
       </div>
-       -->
-      <!-- Legal 
+      <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
@@ -74,7 +66,6 @@
           </li>
         </ul>
       </div>
-      -->
     </div>
     {% endif %}
   </div>
