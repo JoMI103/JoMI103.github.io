@@ -1,6 +1,6 @@
 theme: jekyll-agency
 
-url    : " http://jomi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://jomi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : João Barbosa
