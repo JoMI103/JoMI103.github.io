@@ -9,14 +9,6 @@ title: Break The Glass
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/BTG.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
-
+videoLink: ""
 ---
 
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
