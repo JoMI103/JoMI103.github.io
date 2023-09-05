@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: João Barbosa
-    text: It's Nice To Meet You
+    text: ""
     button: About
     buttonlink: "#about"
 
@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -72,7 +72,10 @@ en: &DEFAULT_EN
     title: "About"
     icon: fas fa-user
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "I'm a game developer who loves learning about the entire game development process especially about
+modeling, texturing and coding. I have five years of coding experience and almost four years of
+experience in developing games in unity.
+"
     section: about
 
   clients:

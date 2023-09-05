@@ -22,9 +22,14 @@
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <iframe width="420" height="315"
-              src="https://www.youtube.com/embed/tHKROa9d12s&t=57s&ab_channel=Andr%C3%A9Cerqueira">
+              
+              {% if project.videoLink != "" %}
+              <iframe width="560" height="315" src="{{ project.videoLink }}"  
+              title="YouTube video player" frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen>
               </iframe>
+              {% endif %}
               <!--
               <img
                 class="img-fluid d-block mx-auto"
@@ -73,9 +78,13 @@
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
               
-              <iframe width="420" height="315"
-              src="{{ project.videoLink }}">
+              {% if project.videoLink != "" %}
+              <iframe width="560" height="315" src="{{ project.videoLink }}"  
+              title="YouTube video player" frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen>
               </iframe>
+              {% endif %}
               <!--
               <img
                 class="img-fluid d-block mx-auto"

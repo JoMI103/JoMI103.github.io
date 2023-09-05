@@ -6,12 +6,12 @@
 
 .btn-xl {
   font-size: 18px;
-  padding: 20px 40px;
+  padding: 15px 60px;
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-color: rgb(230, 166, 29);
+  border-color: rgb(202, 172, 0);
   &:active,
   &:focus,
   &:hover {
