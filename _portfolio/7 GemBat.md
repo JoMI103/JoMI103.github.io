@@ -35,9 +35,9 @@ and use their powers to fight other enemies, so he can escape the dungeon. <br> 
 
 Context: Game made in unity for the Gamejam 
 <a href="https://itch.io/jam/my-first-game-jam-summer-2021"> "My First Game Jam: Summer 2021" </a>  
-in iITCH.IO with the theme Free (entirely optional). <br> <br>
+in iITCH.IO with the theme being "Free". <br> <br>
 
-Made by: João Barbosa   <a href="https://jomi13.itch.io/"> My ITCH.IO page.</a>  
+Made by: João Barbosa <a href="https://jomi13.itch.io/"> My ITCH.IO page.</a>  
 
 
 </div>

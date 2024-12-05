@@ -38,7 +38,7 @@ Context: Game made in unity for the Gamejam
 <a href="https://itch.io/jam/ipca-game-jam-2021"> "IPCA Game Jam 2021" </a>  
 in iITCH.IO with the theme Covid. <br> <br>
 
-Made by: João Barbosa   <a href="https://jomi13.itch.io/"> My ITCH.IO page.</a>  
+Made by: João Barbosa <a href="https://jomi13.itch.io/"> My ITCH.IO page.</a>  
 
 
 </div>

@@ -32,10 +32,10 @@ videoLink: ""
 
 Concept: 3D puzzle game where you are trapped in a giant scale model. Inside there is a house with the same scale model where you can control the environment around you. <br> <br> <br>
 
-Context: Game made in unity for the subject "Desenvolvimento de Jogos Aplicado" (Applied Game Development). <br> <br>
+Context: Game made in unity. <br> <br>
 
 Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> <br>
 
-My role: Main Programmer
+My role: Main Programmer and Designer 
 
 </div>

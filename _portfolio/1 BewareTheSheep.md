@@ -19,10 +19,10 @@ will appear from a secret government research lab and the goal of the game is to
 mutant sheep with embedded robotic parts, using the leftover materials to create
 advanced defense turrets and protect the shepherd's own flock. <br> <br> <br>
 
-Context: Game made in unity for the subject "Projeto Aplicado 2" (Applied Project 2) <br> <br>
+Context: Game made in unity <br> <br>
 
 Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> <br>
 
-My role: Main Programmer
+My role: Main Programmer and Designer
 
 </div>
