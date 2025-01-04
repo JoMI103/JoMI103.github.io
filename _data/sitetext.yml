@@ -32,10 +32,18 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
+    title: "Current main projects"
+    text: ""
+    section: portfolio
+    closebutton: "Close Project"
+
+  portfolio:
     title: "Projects"
     text: ""
     section: portfolio
     closebutton: "Close Project"
+
+
 
   timeline:
     title: "Timeline"
