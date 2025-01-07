@@ -31,17 +31,15 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Current main projects"
-    text: ""
-    section: portfolio
-    closebutton: "Close Project"
-
+  
+  
+    
   portfolio:
     title: "Projects"
     text: ""
-    section: portfolio
+    section: currentProject
     closebutton: "Close Project"
+
 
 
 
