@@ -11,6 +11,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+google_analytics: G-1JB618KC3V
+
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
