@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Abby Adventure
-  #subtitle: subtitle
-  thumbnail: assets/img/portfolio/PosterAbbyAdventure.png
+  subtitle: Platformer • Metroidvania
+  thumbnail: assets/img/portfolio/Covers/Cover_AbbyAdventure.png
   
 #what displays when the item is clicked:
 title: Abby Adventure

@@ -2,8 +2,8 @@
 
 caption:
   title: Knack
-  #subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/Knack.png
+  subtitle: 3D Character Pipeline
+  thumbnail: assets/img/portfolio/Covers/Cover_Knack.png
 
 title: Knack
 #subtitle: Lorem ipsum dolor sit amet consectetur.

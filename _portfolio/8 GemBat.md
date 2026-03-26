@@ -2,8 +2,8 @@
 
 caption:
   title: GemBat
-  #subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/GemBat.png
+  subtitle: Platformer
+  thumbnail: assets/img/portfolio/Covers/Cover_GemBat.png
 
 title: GemBat
 #subtitle: Lorem ipsum dolor sit amet consectetur.

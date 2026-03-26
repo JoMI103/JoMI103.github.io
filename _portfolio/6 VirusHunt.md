@@ -2,8 +2,8 @@
 
 caption:
   title: VirusHunt
-  #subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/VirusHunt.png
+  subtitle: Bullet hell
+  thumbnail: assets/img/portfolio/Covers/Cover_VirusHunt.png
 
 title: VirusHunt
 #subtitle: Lorem ipsum dolor sit amet consectetur.

@@ -45,16 +45,20 @@
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: rgb(185, 206, 206);
+      background-color: #3d414c;
       h4 {
         margin: 0;
         text-transform: none;
+        @include vt323-font;
+        font-size: 38px;
+        color: #e6b517;
       }
       p {
-        font-size: 16px;
-        font-style: italic;
+        font-size: 20px;
+        //font-style: italic;
         margin: 0;
-        @include serif-font;
+        @include vt323-font;
+        color: #698c6c;
       }
     }
   }
@@ -68,6 +72,10 @@
       margin: 0 0 30px;
     }
   }
+}
+
+teste{
+  
 }
 
 .portfolio-modal {

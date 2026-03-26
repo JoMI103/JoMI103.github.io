@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Current Main Project
-  subtitle: Voxel Factory Game
-  thumbnail: assets/img/portfolio/Robotorio/CloseRange.png
+  title: Grainity
+  subtitle: Falling sand 
+  thumbnail: assets/img/portfolio/Covers/Cover_Grainity.png
   
 #what displays when the item is clicked:
-title: Voxel Factory Game
+title: SandFact
 subtitle: 
 #image: assets/img/portfolio/BewareTheSheep.png #main image, can be a link or a file in assets/img/portfolio
 #alt: image alt text

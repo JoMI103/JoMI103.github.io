@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Beware The Sheep
-  #subtitle: subtitle
-  thumbnail: assets/img/portfolio/BewareTheSheep.png
+  subtitle: Tower Defense
+  thumbnail: assets/img/portfolio/Covers/Cover_BewareTheSheep.png
   
 #what displays when the item is clicked:
 title: Beware The Sheep

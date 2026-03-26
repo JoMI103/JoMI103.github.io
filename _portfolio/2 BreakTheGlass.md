@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Break The Glass
   #subtitle: subtitle
-  thumbnail: assets/img/portfolio/BTG.png
+  thumbnail: assets/img/portfolio/Covers/Cover_BreakTheGlass.png
   
 #what displays when the item is clicked:
 title: Break The Glass

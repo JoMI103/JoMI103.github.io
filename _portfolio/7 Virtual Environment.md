@@ -2,8 +2,8 @@
 
 caption:
   title: Virtual Environment
-  #subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/VirtualEnvironment.png
+  subtitle: 3D Modeling
+  thumbnail: assets/img/portfolio/Covers/Cover_VirtualEnvironment.png
 
 title: Virtual Environment
 #subtitle: Lorem ipsum dolor sit amet consectetur.
