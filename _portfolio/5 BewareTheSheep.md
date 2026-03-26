@@ -13,16 +13,13 @@ videoLink: "https://www.youtube.com/embed/A16-sXKx9Tc?si=DYPAtZILS2OUcHTI"
 
 ---
 <div align = "Left">
-Concept: 3D Tower Defense and First Person Shooter game where
-the player controls a human shepherd. During the game, waves of mutant robotic sheep
-will appear from a secret government research lab and the goal of the game is to kill the
-mutant sheep with embedded robotic parts, using the leftover materials to create
-advanced defense turrets and protect the shepherd's own flock. <br> <br> <br>
 
-Context: Game made in unity <br> <br>
+Concept: A 3D tower defense and first-person shooter game where the player takes on the role of a human shepherd. Waves of mutant robotic sheep emerge from a secret government research lab, and the player must fight them off by repurposing leftover parts into turrets to protect their own flock. <br> <br> <br>
 
-Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> <br>
+Context: Developed in Unity <br> 
 
-My role: Main Programmer and Designer
+Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> 
+
+My role: Main Programmer and Game Designer
 
 </div>

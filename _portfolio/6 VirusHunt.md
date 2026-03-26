@@ -32,13 +32,13 @@ videoLink: ""
 
 <div align = "Left">
 
-Concept: 2D, game where you control a white blood cell that is being attacked by the covid 19 virus. <br> <br> <br>
-
-Context: Game made in unity for the Gamejam 
+Concept: A 2D game where you control a white blood cell defending against attacks from the COVID-19 virus. <br> <br>
+Context: Developed in Unity for the
 <a href="https://itch.io/jam/ipca-game-jam-2021"> "IPCA Game Jam 2021" </a>  
-in iITCH.IO with the theme Covid. <br> <br>
-
-Made by: João Barbosa <a href="https://jomi13.itch.io/"> My ITCH.IO page.</a>  
-
-
+on ITCH.IO, with the theme “COVID. <br> <br>
 </div>
+
+<div align = "Center">
+<iframe frameborder="0" src="https://itch.io/embed/1095885?bg_color=3d414c&amp;fg_color=70a671&amp;link_color=e6b517&amp;border_color=e6b517" width="552" height="167"><a href="https://jomi13.itch.io/virus-hunt">Virus Hunt by JoMI</a></iframe>
+</div>
+

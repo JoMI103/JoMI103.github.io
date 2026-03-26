@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/Covers/Cover_Grainity.png
   
 #what displays when the item is clicked:
-title: SandFact
+title: Grainity
 subtitle: 
 #image: assets/img/portfolio/BewareTheSheep.png #main image, can be a link or a file in assets/img/portfolio
 #alt: image alt text
@@ -16,54 +16,11 @@ videoLink: ""
 
 
 <div align = "Left">
-Concept: Robotorio (Temporary name) will be a voxel factory game inspired in Factorio, 
-where you control a robot with the sole objective of colllecting resources from a mine for its creator. <br> <br> <br>
+Concept: Grainity is a falling sand simulation game featuring over 50 unique materials, all interacting with each other through complex and dynamic systems. These systems enable: complex physics, explosions, light emission, unique material-specific behaviors, and a temperature simulation that allows materials to shift between solid, liquid, granular, and gas states. <br> <br> 
 </div>
 
-<div align = "Center"><b><h3> Current state</h3></b> </div>
+<div align = "Center">
 
-<div class="Column">
-    <img src="assets/img/portfolio/Robotorio/28fps.png" alt="img2" style="width:100%">
-  </div>
-
-<div align = "Center"> Right now, with a 1050 Ti, I'm rendering a world with 1280 by 1280 by 1280 voxels at 28 FPS with probably not optimized vertex and fragment shaders, without simpler optimizations like not dealing with chunks that are not in the camera frustum and not rendering the 3 opposite triangles of the voxels. And without more complex optimizations like occlusion culling and an LOD system. <br>
-This was achieved with the OpenGL function glMultiDrawArraysIndirect, which Unity does not support. Therefore, I needed to create an external plugin (it was hell, because every time you test an external plugin, you need to restart Unity to update the plugin).
-<br><br>
-</div>
-
-<div class="Column">
-  <div class="Column">
-      <div align = "Center"><i> Terrain (Normals, Texture, light, light and shadows, Close up)</b>
-    <img src="assets/img/portfolio/Robotorio/Normals.png" alt="img2" style="width:100%">
-   
- 
-  <div class="Column">
-    <img src="assets/img/portfolio/Robotorio/Texture.png" alt="img2" style="width:100%">
-
-  </div>
-  <div class="Column">
-    <img src="assets/img/portfolio/Robotorio/Light.png" alt="img2" style="width:100%">
-
-  </div>
-  <div class="Column">
-    <img src="assets/img/portfolio/Robotorio/Shadow.png" alt="img2" style="width:100%">
-  </div>
-  <div class="Column">
-  <img src="assets/img/portfolio/Robotorio/CloseRange.png" alt="img2" style="width:100%">
+<iframe frameborder="0" src="https://itch.io/embed/3597367?border_width=4&amp;bg_color=3d414c&amp;fg_color=70a671&amp;link_color=e6b517&amp;border_color=e6b517" width="558" height="173"><a href="https://jomi13.itch.io/grainity">Grainity by JoMI</a></iframe>
 
 </div>
-
-<div align = "Center"><br> Also i have made a system that converts .point files (created in MagicaVoxel) into data compatible with the renderer, the system takes the voxel data and generates the external faces and joins them with a greedy mesher algorithm, also the color data is transferred to a texture that the renderer uses. <br> <br> </div>
-
-  <div class="Column">
-  <img src="assets/img/portfolio/Robotorio/Robos.png" alt="img2" style="width:100%">
-  </div>
-  <div class="Column">
-  <img src="assets/img/portfolio/Robotorio/tex.png" alt="img2" style="width:50%">
-  </div>
-  
-   <div class="Column">
-  <img src="assets/img/portfolio/Robotorio/RobosTerreno.png" alt="img2" style="width:100%">
-  </div>
-  
-  <div align = "Center"><br> As you can see in the last image, this enables the use of other blocks to texture the terrain<br> <br> </div>

@@ -30,12 +30,19 @@ videoLink: ""
 
 <div align = "Left">
 
-Concept: 3D puzzle game where you are trapped in a giant scale model. Inside there is a house with the same scale model where you can control the environment around you. <br> <br> <br>
+Concept: 3D puzzle game where you are trapped in a giant scale model. Inside there is a house with the same scale model where you can control the environment around you. <br> <br> 
 
-Context: Game made in unity. <br> <br>
+Context: Developed in unity. <br> 
 
-Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> <br>
+Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br>
 
-My role: Main Programmer and Designer 
+My role: Main Programmer and Designer <br>
+</div>
+
+
+
+<div align = "Center">
+ <br>
+<iframe frameborder="0" src="https://itch.io/embed/1570284?bg_color=3d414c&amp;fg_color=70a671&amp;link_color=e6b517&amp;border_color=e6b517" width="552" height="167"><a href="https://jomi13.itch.io/breaktheglass">BreakTheGlass by JoMI</a></iframe>
 
 </div>

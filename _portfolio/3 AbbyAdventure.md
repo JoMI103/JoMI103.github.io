@@ -15,14 +15,14 @@ videoLink: "https://www.youtube.com/embed/CSZemTQRAwE?si=SBMZ1CAJzuEJgKgW"
 
 <div align = "Left">
 
-Concept: Abby Adventure, a Metroidvania 2D game where the player controls Abby, an explorer
+Concept: Abby Adventure, a 2D Metroidvania game where the player controls Abby, an explorer
 who, upon returning home, finds her village apparently abandoned. Abby will have to
-unravel what happened to the inhabitants and find a way to bring them back. <br> <br> <br>
+unravel what happened to the inhabitants and find a way to bring them back. <br> <br> 
 
-Context: Game made in unity <br> <br>
+Context: Game developed in unity <br> 
 
-Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> <br>
+Made by: João Barbosa, Pedro Silva, Jorge Mansilhas <br> 
 
-My role: Main Programmer and Designer
+My role: Main Programmer and Game Designer <br>
 
 </div>
