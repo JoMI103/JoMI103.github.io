@@ -2,11 +2,13 @@
 .footer {
   padding: 25px 0;
   text-align: center;
+
   span.copyright {
-    font-size: 90%;
+    font-size: 150%;
     line-height: 40px;
     text-transform: none;
-    @include heading-font;
+    color: #698c6c;
+    @include vt323-font;
   }
   ul.quicklinks {
     font-size: 90%;
@@ -14,6 +16,7 @@
     margin-bottom: 0;
     text-transform: none;
     @include heading-font;
+
   }
 }
 

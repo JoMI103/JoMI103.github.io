@@ -20,12 +20,13 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : João Barbosa
-email      : a21078@alunos.ipca.pt #this is also the email contact forms will go to
+email      : jomiorg13@gamail.com #this is also the email contact forms will go to
 description: "João Barbosa's portfolio"
-author     : João Barbosa
+author     : João Barbosa~
+barHeight  : 20
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+#   path: assets\img\clients\creative-market.jpg
+#   height: 10 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

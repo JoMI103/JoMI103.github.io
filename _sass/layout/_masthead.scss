@@ -1,8 +1,8 @@
 // Styling for the masthead
 header.masthead {
   text-align: center;
-  color: rgb(0, 0, 0);
-  background-color: rgb(135, 150, 150);
+  color: rgb(237, 0, 0);
+  background-color: #3d414c;//#879696;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -15,14 +15,14 @@ header.masthead {
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
-      @include serif-font;
+      @include vt323-font;
     }
     .intro-heading {
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
-      @include heading-font;
+      @include vt323-font;
     }
   }
 }
@@ -36,14 +36,14 @@ header.masthead {
         font-style: normal;
         line-height: 40px;
         margin-bottom: 25px;
-        @include serif-font;
+        @include vt323-font;
       }
       .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
-        @include heading-font;
+        @include vt323-font;
       }
     }
   }

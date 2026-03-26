@@ -17,7 +17,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0;
-        background: fade-out($primary, 0.1);
+        background: fade-out($primary, 0.2);
         &:hover {
           opacity: 1;
         }
@@ -40,12 +40,13 @@
         }
       }
     }
+    
     .portfolio-caption {
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: #3d414c;
+      background-color: #2c3038;
       h4 {
         margin: 0;
         text-transform: none;
@@ -53,8 +54,15 @@
         font-size: 38px;
         color: #e6b517;
       }
+      h2 {
+        margin: 0;
+        text-transform: none;
+        @include vt323-font;
+        font-size: 38px;
+        color: #e6b517;
+      }
       p {
-        font-size: 20px;
+        font-size: 25px;
         //font-style: italic;
         margin: 0;
         @include vt323-font;
@@ -74,30 +82,43 @@
   }
 }
 
-teste{
-  
-}
 
 .portfolio-modal {
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
   }
+  
+  .modal-body {
+    font-family: 'VT323', monospace !important;
+    font-size: 28px;
+    color: #70a671 !important;
+  }
   .modal-content {
     padding: 100px 0;
     text-align: center;
+    
+    background-color: #3d414c;
+    
+    
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      @include vt323-font;
+      font-size: 78px;
+      color: #e6b517;
     }
     p {
       margin-bottom: 30px;
+      @include vt323-font;
+      color: #698c6c;
     }
     p.item-intro {
       font-size: 16px;
-      font-style: italic;
+      //font-style: italic;
       margin: 20px 0 30px;
-      @include serif-font;
+      @include vt323-font;
+      color: #698c6c;
     }
     ul.list-inline {
       margin-top: 0;
@@ -110,6 +131,8 @@ teste{
       cursor: pointer;
     }
   }
+  
+ 
   .close-modal {
     position: absolute;
     top: 25px;
@@ -149,4 +172,23 @@ teste{
 
 img{
   width: 100%;
+}
+
+.portfolio-color {
+  background-color: #3d414c;
+}
+.section-heading {
+  @include vt323-font;
+ 
+  color: #e6b517;
+}
+
+.page-section .section-heading {
+  font-size: 56px;
+}
+.page-section .greenText {
+  @include vt323-font;
+  color: #698c6c;
+  
+  font-size: 24px;
 }

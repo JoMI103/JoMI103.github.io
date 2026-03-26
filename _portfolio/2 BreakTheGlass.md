@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Break The Glass
-  #subtitle: subtitle
+  subtitle: Puzzle
   thumbnail: assets/img/portfolio/Covers/Cover_BreakTheGlass.png
   
 #what displays when the item is clicked:
