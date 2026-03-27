@@ -78,9 +78,13 @@ en: &DEFAULT_EN
     title: "About"
     icon: fas fa-user
     text: "our story"
-    body: "I'm a game developer who loves learning about the entire game development process especially about
-modeling, texturing and coding. I have five years of coding experience and almost four years of
-experience in developing games in unity.
+    body: "
+
+I'm a game developer with 8 years of coding experience and 6 years of Unity development. Capable of developing complex gameplay systems, creating custom editors that enhance designer productivity, performance optimization, procedural generation, and more.
+
+Also skilled in 3D modeling, texturing, pixel art, asset integration, and related workflows. Because of this experience, I have a strong understanding of what other developers need, allowing me to create tools and systems that make their work easier and reduce the need to constantly interact with the engine.
+
+
 "
     section: about
 
