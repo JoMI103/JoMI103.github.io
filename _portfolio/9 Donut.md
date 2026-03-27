@@ -4,6 +4,7 @@ caption:
   title: Donut
   subtitle: Donut
   thumbnail: assets/img/portfolio/Covers/Cover_donut.png
+  
 
 title: Donut
 #subtitle: 
