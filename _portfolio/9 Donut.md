@@ -3,8 +3,7 @@
 caption:
   title: Donut
   subtitle: Donut
-  thumbnail: assets/img/portfolio/Covers/Cover_donut.png
-  
+  thumbnail: assets/img/portfolio/Covers/Cover_Donut.png
 
 title: Donut
 #subtitle: 
